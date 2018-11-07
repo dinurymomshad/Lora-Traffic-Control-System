@@ -2,9 +2,9 @@
 
 ## Project Members:
 
-- Towqir Ahmed Shaem
 - Momshad Dinury
 - Abdullah Z Khan Junaid
+- Towqir Ahmed Shaem
 
 ### Code Shortcuts
 
