@@ -1,10 +1,11 @@
 # Project Name - Lora based Taffic Control System
 
 ## Project Members:
->Towqir Ahmed Shaem
->Momshad Dinury
->Abdullah Z Khan Junaid
-    
+
+- Towqir Ahmed Shaem
+- Momshad Dinury
+- Abdullah Z Khan Junaid
+
 ### Code Shortcuts
 
 [**Controller.ino**](https://gitlab.com/Momshad/Lora-Traffic-Control-System/blob/master/Controller/Controller.ino)
