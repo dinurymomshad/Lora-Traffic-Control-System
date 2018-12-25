@@ -16,9 +16,10 @@
 ### Interrupt Handlers
 
 ```cpp
-void ISR_DB_1();
-void ISR_DB_2();
-void ISR_DB_3();
+void ISR_DB_1_G_32();
+void ISR_DB_1_R_32();
+void ISR_DB_2_G_32();
+void ISR_DB_2_R_32();
 ```
 
 Display timers attached to:
