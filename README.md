@@ -8,12 +8,13 @@
 ## Shortcuts
 * [**Controller Algorithm Overview**](#controller-algorithm-overview)
 * [**Node Algorithm Overview**](#node-algorithm-overview)
+* [**Timer Algorithm**](#timer-algorithm)
 
 ## Controller Details
 
 [**Controller.ino**](https://gitlab.com/Momshad/Lora-Traffic-Control-System/blob/Controller-Adjustments-Timers-Displays/Controller/Controller.ino)
 
-### Interrupt Handlers
+### Interrupt Handlers(V2)
 
 ```cpp
 void ISR_DB_1_G_32();
@@ -45,3 +46,8 @@ void showTime();
 
 ### Node Algorithm Overview
 ![Node Algorithm](Data Collection/Algorithm/Traffic Control Node.jpg)    
+
+### Timer Algorithm
+![Timer Algorithm Overview](Data Collection/Algorithm/Overview.jpg)
+![Timer Algorithm Showtime](Data Collection/Algorithm/OnShowTimeCall.jpg)
+![Timer Algorithm Receive](Data Collection/Algorithm/OnMessageArrived.jpg)
